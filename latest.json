@@ -1,9 +1,9 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/SirBlacky21/RIGStats-Custom-Updates/releases/download/v1.41.0/RIGStats_1.41.0_x64-setup.exe"
+      "url": "https://github.com/SirBlacky21/RIGStats-Custom-Updates/releases/download/v1.44.0/RIGStats_1.44.0_x64-setup.exe"
     }
   },
-  "version": "1.41.0",
-  "notes": "RIGStats Custom v1.41.0"
+  "version": "1.44.0",
+  "notes": "RIGStats Custom v1.44.0"
 }
