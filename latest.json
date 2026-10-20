@@ -1,10 +1,10 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/SirBlacky21/RIGStats-Custom-Updates/releases/download/v1.49.1/RIGStats_1.49.1_x64-setup.exe",
-      "sha256": "918ddb4e6a44dd039b4e5574058a51756c40a70796b9e981d5c6d6591af177e5"
+      "url": "https://github.com/SirBlacky21/RIGStats-Custom-Updates/releases/download/v1.50.0/RIGStats_1.50.0_x64-setup.exe",
+      "sha256": "78dd924388b4d59732af7b56f8f9b1e293aec7eef628bdbc74ec4c7e244e5a06"
     }
   },
-  "version": "1.49.1",
-  "notes": "RIGStats Custom v1.49.1"
+  "version": "1.50.0",
+  "notes": "RIGStats Custom v1.50.0"
 }
